@@ -1,0 +1,2 @@
+# Bonjour
+print('Hello, world!')
