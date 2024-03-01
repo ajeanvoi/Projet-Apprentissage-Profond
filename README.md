@@ -12,4 +12,4 @@ L'organisation du projet est la suivante :
 - Datas : ensemble de notre base de données, avec dedans nos 3 classes (cartes Pokémon, Magic The Gathering et Yu-gi-oh)
 - Scripts : les scripts utilisés
 
-# Paul est le plus beau et le plus fort !
+# On remercira notre déesse à tous, Pandore, pour sa généreuse contribution
